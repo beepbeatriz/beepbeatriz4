@@ -6,7 +6,7 @@ Esse é o meu perfil.
 
 
 
-## * INFORMAÇÕES *
+## ! INFORMAÇÕES !
 
 - Estou aprendendo a linguagem JavaScript no Alura;
 - Pretendo adquirir conhecimentos de muitas áreas diferentes;
