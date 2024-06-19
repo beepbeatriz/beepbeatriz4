@@ -2,7 +2,7 @@
 Esse é o meu perfil.
 
 
-![descrição do GIF](https://tenor.com/pt-BR/view/steven-universe-steven-quartz-universe-steven-universe-the-movie-steven-universe-future-change-gif-24221254)
+![descrição do GIF](https://media1.tenor.com/m/sWfNXqDmr_EAAAAC/steven-universe-steven-quartz-universe.gif)
 
 
 
